@@ -1,5 +1,5 @@
 ## ISABELA REIS
-I am currently in my third year of high school with a technical focus on computer science at IFBA, aiming to pursue a degree in Computer Engineering. I have a strong passion for mathematics and physics, with a particular interest in backend development and hardware engineering. I'm eager to expand my knowledge and skills in these areas and contribute to innovative projects.
+I am currently in my third year of high school with a technical focus on computing at IFBA, aiming to pursue a degree in Computer Engineering. I have a strong passion for mathematics and physics, with a particular interest in backend development and hardware engineering. I'm eager to expand my knowledge and skills in these areas and contribute to innovative projects.
 
 ## CONTACTS
 <div>
