@@ -1,5 +1,5 @@
 ## ISABELA REIS
-I am currently pursuing a degree in Computer Engineering at the Federal University of Bahia (UFBA), with a technical background in Computing from IFBA. I have a strong passion for mathematics and physics, with a particular interest in backend development and hardware engineering. I'm eager to expand my knowledge and skills in these areas and contribute to innovative projects.
+I am currently pursuing a degree in Computer Engineering at the Federal University of Bahia (UFBA), with a technical background in Computing from IFBA. I have a strong passion for mathematics and physics, with a particular interest in backend development, data science and hardware engineering. I'm eager to expand my knowledge and skills in these areas and contribute to innovative projects.
 
 ## CONTACTS
 <div>
